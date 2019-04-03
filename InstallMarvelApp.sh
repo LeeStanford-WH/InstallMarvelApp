@@ -1,5 +1,10 @@
 #!/bin/bash
 #
+# InstallMarvelApp
+# Created by Lee Stanford
+# lee.stanford@workhuman.com
+# April 3rd, 2019
+
 # Remove old Marvel.app
 cd /Applications
 osascript -e 'quit app "Marvel"'
